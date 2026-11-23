@@ -37,6 +37,9 @@ EvronOffice (Evron Office 7.4) — автономный офисный паке�
 - Необязательный ИИ-ассистент подключается отдельно вашим ключом; при его использовании данные могут передаваться во внешние сервисы согласно их условиям.
 - Открывайте и запускайте код/файлы только из доверенных источников.
 
-## Поддержка
+## Поддержка / Соцсети
+Официальный Telegram: [@EvronTech](https://t.me/EvronTech)
 
-Telegram: [@EvronTech_SupportBot](https://t.me/EvronTech_SupportBot)
+Поддержка Telegram: [@EvronTech_SupportBot](https://t.me/EvronTech_SupportBot)
+
+YouTube Канал:  [@ChevronShvedov](https://youtube.com/@chevronshvedov?si=IBJlnCtUw8mODlCL)
